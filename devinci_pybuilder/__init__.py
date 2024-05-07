@@ -1,0 +1,1 @@
+from .devinci_pybuilder import generate_setup_py
